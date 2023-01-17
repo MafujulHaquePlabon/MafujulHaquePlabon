@@ -19,3 +19,26 @@ Here are some ideas to get you started:
 - [x] 🆕 Portfolio: 
 - [x] ✉ My email: mafujul90@gmail.com
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
+
+<br />
+
+#### Stack
+{
+  "language": ["javascript"],
+  "frontend": {
+     "library/framework": ["react.js],
+     "component lib/framework": [
+        "tailwindcss",
+         "daisyUI",
+         "bootstrap",
+           "material ui"
+    ]
+  },
+  "backend": ["node.js/express"], 
+   "database": ["mongodb", "mysql"],
+    "ide": ["vs code"],                     
+  "others": [
+    "redux",
+    "rest api"
+  ]
+}
