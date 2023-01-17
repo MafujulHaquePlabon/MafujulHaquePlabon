@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MafujulHaquePlabon/MafujulHaquePlabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
+- [x] 🌱 I’m currently working on MERN Stack
+- [x] ⚡ Learning: React Native, Typescript, MySQL
+- [x] 💻 Develop: Web Application
+- [x] 🆕 Portfolio: 
+- [x] ✉ My email: mafujul90@gmail.com
+- [x] 💬 Discord: Mafujul Haque Plabon#7903
