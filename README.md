@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
-- [x] 💻 I’m currently working on MERN Stack
+- [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: React Native, Typescript, Next.js, MySQL
 - [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
 - [x] 🆕 Portfolio: 
@@ -28,17 +28,23 @@ Here are some ideas to get you started:
      "library/framework": ["react.js"],
      "component lib/framework": [
         "tailwindcss",
-         "daisyUI",
-         "bootstrap",
-           "material ui"
+        "daisyUI",
+          "bootstrap",
+          "material ui"
     ]
   },
   "backend": ["node.js/express"], 
-   "database": ["mongodb", "mysql"],
-    "ide": ["vs code"],                     
+  "database": ["mongodb", "mysql"],
+  "ide": ["vs code"],                     
   "others": [
-    "redux",
-    "rest api"
+    "redux","rest api",
+    "Figma","Firebase",
+      "Netlify", "Heroku",
+      "HTML5","CSS3",
+        "Git","ES6",
+        "Payment-Gateway-System",
+          "JWT", "Map",
+          "Chrome Dev tool"
   ]
 }
 ```
