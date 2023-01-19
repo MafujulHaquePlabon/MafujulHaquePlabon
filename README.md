@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
-- [x] 🌱 I’m currently working on MERN Stack
-- [x] ⚡ Learning: React Native, Typescript, MySQL
-- [x] 💻 Develop: Web Application
+- [x] 💻 I’m currently working on MERN Stack
+- [x] 🌱 I’m currently learning: React Native, Typescript, Next.js, MySQL
+- [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> Reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
 - [x] 🆕 Portfolio: 
 - [x] ✉ My email: mafujul90@gmail.com
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
