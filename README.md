@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     "redux","rest api",
     "Figma","Firebase",
       "Netlify", "Heroku",
-      "HTML5","CSS3",
+      "HTML5","CSS3", "SASS",
         "Git","ES6",
         "Payment-Gateway-System",
           "JWT", "Map",
