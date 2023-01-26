@@ -30,7 +30,8 @@ Here are some ideas to get you started:
         "tailwindcss",
         "daisyUI",
           "bootstrap",
-          "material ui"
+          "react bootstrap",
+            "material ui"
     ]
   },
   "backend": ["node.js/express"], 
