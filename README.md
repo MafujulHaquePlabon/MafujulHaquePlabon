@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         "tailwindcss",
         "daisyUI",
           "bootstrap",
-          "react bootstrap",
+          "react-bootstrap",
             "material ui"
     ]
   },
