@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Typescript, Next.js, MySQL
 - [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
-- [x] 🆕 Portfolio: 
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 
 #### Stack
