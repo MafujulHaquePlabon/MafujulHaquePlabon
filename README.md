@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
-- [x] 🌱 I’m currently learning: Typescript, Next.js, MySQL
+- [x] 🌱 I’m currently learningNext.js, Typescript
 - [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 
