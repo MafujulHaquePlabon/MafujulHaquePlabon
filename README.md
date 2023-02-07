@@ -36,14 +36,11 @@ Here are some ideas to get you started:
   "database": ["mongodb", "mysql"],
   "ide": ["vs code"],                     
   "others": [
-    "redux","rest api",
-    "Figma","Firebase",
-      "Netlify", "Heroku",
-      "HTML5","CSS3", "SASS",
-        "Git","ES6",
-        "Payment-Gateway-System",
-          "JWT", "Map",
-          "Chrome Dev tool"
+         "redux", "rest api",
+         "Figma", "Firebase", "Netlify",
+         "Heroku", "HTML5", "CSS3", "SASS",
+         "Git", "ES6", "Chrome Dev tool",
+         "JWT", "Map", "Payment-Gateway-System"
   ]
 }
 ```
