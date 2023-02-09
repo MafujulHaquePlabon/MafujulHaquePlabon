@@ -41,7 +41,7 @@ Here are some ideas to get you started:
          "Heroku", "HTML5", "CSS3", "SASS",
          "Git", "ES6", "Chrome Dev tool",
          "JWT", "Map", "Payment-Gateway-System"
-  ]
+    ]
 }
 ```
 
