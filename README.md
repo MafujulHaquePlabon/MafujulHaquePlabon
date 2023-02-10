@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
 -->
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.js, Typescript
-- [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
+- [x] ✉ mafujul90@gmail.com
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 
 #### Stack
