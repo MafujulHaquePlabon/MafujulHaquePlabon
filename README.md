@@ -28,8 +28,9 @@ Here are some ideas to get you started:
      "component lib/framework": [
         "tailwindcss",
         "daisyUI",
+          "flowbite"
           "bootstrap",
-          "react-bootstrap",
+            "react-bootstrap",
             "material ui"
     ]
   },
