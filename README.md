@@ -28,10 +28,10 @@ Here are some ideas to get you started:
      "component lib/framework": [
         "tailwindcss",
         "daisyUI",
-           "flowbite"
-           "bootstrap",
-              "react-bootstrap",
-              "material ui"
+        "flowbite"
+            "bootstrap",
+            "react-bootstrap",
+                "material ui"
     ]
   },
   "backend": ["node.js/express"], 
