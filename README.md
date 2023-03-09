@@ -29,9 +29,9 @@ Here are some ideas to get you started:
         "tailwindcss",
         "daisyUI",
         "flowbite"
-            "bootstrap",
-            "react-bootstrap",
-                "material ui"
+             "bootstrap",
+             "react-bootstrap",
+                 "material ui"
     ]
   },
   "backend": ["node.js/express"], 
