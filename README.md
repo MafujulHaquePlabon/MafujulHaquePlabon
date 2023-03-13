@@ -32,7 +32,7 @@ Here are some ideas to get you started:
              "bootstrap",
              "react-bootstrap",
                   "material ui"
-    ]
+      ]
  },
   "backend": ["node.js/express"], 
   "database": ["mongodb", "mysql"],
