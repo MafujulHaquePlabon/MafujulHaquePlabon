@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - [x] 🌱 I’m currently learning: Next.js , Typescript
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
+- [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
 
 #### Stack
 ```yaml
