@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.js , Typescript
-- [x] ✉  How to reach me mafujul90@gmail.com
+- [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 
 #### Stack
