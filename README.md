@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
--->
 ### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
+-->
+
+### Hi there, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=218bff&height=30&lines=Mafujul+Haque+Plabon!)](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.js , Typescript
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
