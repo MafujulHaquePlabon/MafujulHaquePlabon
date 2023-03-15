@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      "component lib/framework": [
           "tailwindcss",
           "daisyUI",
-          "flowbite"
+          "flowbite",
                 "bootstrap",
                 "react-bootstrap",
                      "material ui"
