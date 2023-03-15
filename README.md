@@ -30,21 +30,19 @@ Here are some ideas to get you started:
   "frontend": {
      "library/framework": ["react.js"],
      "component lib/framework": [
-        "tailwindcss",
-        "daisyUI",
-        "flowbite"
-             "bootstrap",
-             "react-bootstrap",
-                  "material ui"
+          "tailwindcss",
+          "daisyUI",
+          "flowbite"
+                "bootstrap",
+                "react-bootstrap",
+                     "material ui"
       ]
  },
   "backend": ["node.js/express"], 
   "database": ["mongodb", "mysql"],
   "ide": ["vs code"],                     
   "others": [
-         "redux", "rest api", "Figma", "Firebase", "Netlify", "Surge",
-         "Heroku", "HTML5", "CSS3", "SASS", "Git", "ES6",
-         "Chrome Dev tool", "JWT", "Map", 
+         "redux", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3", "SASS", "Git", "ES6", "Chrome Dev tool", "JWT", "Map", 
          "Payment-Gateway-System"      
       ]
 }
