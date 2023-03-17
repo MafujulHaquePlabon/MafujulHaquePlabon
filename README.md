@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/Mongodb-3178c6?style=for-the-badge&logo=mongodb&logoColor=green" />
   <a href="https://www.linkedin.com/in/alaminopu/">
-<img width="50px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img width="40px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a></div>
