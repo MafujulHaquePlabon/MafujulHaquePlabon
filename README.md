@@ -36,7 +36,7 @@ Here are some ideas to get you started:
                 "bootstrap",
                 "react-bootstrap",
                      "material ui"
-      ]
+     ]
  },
   "backend": ["node.js/express"], 
   "database": ["mongodb", "mysql"],
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   "others": [
          "redux", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3",
          "SASS", "Git", "ES6", "Chrome Dev tool", "JWT", "Map", "Payment-Gateway-System"      
-      ]
+     ]
 }
 ```
 
