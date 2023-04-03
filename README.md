@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   "database": ["mongodb", "mysql"],
   "ide": ["vs code"],                     
   "others": [
-         "redux", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3",
+         "redux", "react router", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3",
          "SASS", "Git", "ES6", "Chrome Dev tool", "JWT", "Map", "Payment-Gateway-System"     
      ]
 }
