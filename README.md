@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   "ide": ["vs code"],                     
   "others": [
          "redux", "react router", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3",
-         "SASS", "Git", "ES6", "Axios", "Chrome Dev tool",  "JWT", "Map", "Payment-Gateway-System"     
+         "SASS", "Git", "Github", "ES6", "Axios", "Chrome Dev tool",  "JWT", "Map", "Payment-Gateway-System"     
      ]
 }
 ```
