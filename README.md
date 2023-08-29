@@ -35,7 +35,7 @@ Here are some ideas to get you started:
           "flowbite",
                  "bootstrap",
                  "react-bootstrap",
-                       "material ui"
+                        "material ui"
      ]
               },
   "backend": ["node.js/express"], 
