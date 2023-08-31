@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
-- [x] 🌱 I’m currently learning: Next.JS, Typescript , Mongoose , Testing , GraphQL , SQL , Next.js , AWS , Docker
+- [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , Next.js , AWS , Docker
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
