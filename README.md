@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 {
   "language": ["javascript"],
   "frontend": {
-     "library/framework": ["react.js"],
+     "library/framework": ["next.js" , "react.js"],
      "component lib/framework": [
           "tailwindcss",
           "daisyUI",
