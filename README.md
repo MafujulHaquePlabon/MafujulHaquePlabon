@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### Stack
 ```yaml
 {
-  "language": ["javascript"],
+  "language": ["javascript" , "typeScript"],
   "frontend": {
      "library/framework": ["next.js" , "react.js"],
      "component lib/framework": [
