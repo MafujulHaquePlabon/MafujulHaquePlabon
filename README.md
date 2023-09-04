@@ -39,7 +39,7 @@ Here are some ideas to get you started:
      ]
               },
   "backend": ["node.js/express"], 
-  "database": ["mongodb", "mysql"],
+  "database": ["mongodb", "mongoose", "mysql"],
   "ide": ["vs code"],                     
   "others": [
          "redux", "react router", "rest api", "Figma", "Firebase", "Netlify", "Surge", "Heroku", "HTML5", "CSS3",
