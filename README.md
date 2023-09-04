@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 #### Stack
 ```yaml
 {
-  "language": ["javascript" , "typeScript"],
+  "language": ["javascript", "typeScript"],
   "frontend": {
-     "library/framework": ["next.js" , "react.js"],
+     "library/framework": ["next.js", "react.js"],
      "component lib/framework": [
           "tailwindcss",
           "daisyUI",
