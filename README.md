@@ -37,7 +37,7 @@ Here are some ideas to get you started:
                  "react-bootstrap",
                         "material ui"
      ]
-         },
+               },
   "backend": ["node.js/express"], 
   "database": ["mongodb", "mongoose", "mysql"],
   "ide": ["vs code"],                     
