@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   "database": ["mongodb", "mongoose", "mysql"],
   "ide": ["vs code"],                     
   "others": [
-         "Redux", "React router", "Rest api", "Figma", "Firebase Authentication", "Netlify", "Surge", "Heroku",
+         "Redux", "React router", "Rest api", "Figma", "Firebase-Authentication", "Netlify", "Surge", "Heroku",
                "HTML5", "CSS3", "SASS", "Git", "Github", "ES6", "Axios", "Chrome Dev tool", "JWT", "Map",
                          "Payment-Gateway-System", "Chrome Dev Tools", "Testing", "AWS", "Docker"
      ]
