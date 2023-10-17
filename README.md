@@ -42,7 +42,7 @@
                       "Payment-Gateway-System", "Chrome Dev Tools", "Testing", "AWS", "Docker"
      ]
 }
-'''
+```
 #### Favourite Stack
 
 <div  style="display: flex;align-items: center;"><img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
