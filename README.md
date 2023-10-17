@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hi there, 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=218bff&height=30&lines=I'm+Mafujul+Haque+Plabon!)](https://github.com/MafujulHaquePlabon)
 -->
-### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋```yaml
 <p align="left">
        <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
        <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
        <img src="https://komarev.com/ghpvc/?username=MafujulHaquePlabon" alt="visitors" />
        </a>
   </p>
-```
+### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
