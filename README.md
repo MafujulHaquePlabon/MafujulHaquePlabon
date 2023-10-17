@@ -19,7 +19,7 @@
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
 
 #### Stack
-yarn'''
+```yaml
 {
   "language": ["javascript", "typescript"],
   "frontend": {
