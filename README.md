@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
 <p align="left">
   <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4423249?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/MafujulHaquePlabon?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MafujulHaquePlabon?color=green&logo=github">
