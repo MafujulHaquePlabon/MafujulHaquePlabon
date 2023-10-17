@@ -11,7 +11,6 @@
        <img src="https://komarev.com/ghpvc/?username=MafujulHaquePlabon" alt="visitors" />
        </a>
   </p>
-
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
