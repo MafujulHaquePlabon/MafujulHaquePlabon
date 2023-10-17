@@ -1,5 +1,4 @@
-### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
-
+### :man_office_worker: Hi 👋, I'm a [Software Engineer(web)](https://github.com/MafujulHaquePlabon) 👋
 <p align="left">
        <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
        <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
