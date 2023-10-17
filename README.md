@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=218bff&height=30&lines=I'm+Mafujul+Haque+Plabon!)](https://github.com/MafujulHaquePlabon)
 -->
 ### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
-       <p align="left">
+<p align="left">
        <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
        <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
        </a>
