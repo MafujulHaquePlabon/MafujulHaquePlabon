@@ -1,22 +1,17 @@
-<!--
-**MafujulHaquePlabon/MafujulHaquePlabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- [x] [<img width="20px" alt="Linkedin" src="https://img.shields.io/badge/-3178c6?badge&logo=linkedin&logoColor=white" /> How to reach me](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/)🤝
-### Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
-### Hi there, 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=218bff&height=30&lines=I'm+Mafujul+Haque+Plabon!)](https://github.com/MafujulHaquePlabon)
--->
 ### :man_office_worker:  Hi there, I'm [Plabon](https://github.com/MafujulHaquePlabon) 👋
+
+<p align="left">
+       <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
+       <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
+       </a>
+       <a href="https://github.com/MafujulHaquePlabon?tab=followers">
+       <img alt="GitHub followers" src="https://img.shields.io/github/followers/MafujulHaquePlabon?color=green&logo=github">
+       </a>
+       <a href="https://github.com/MafujulHaquePlabon/">
+       <img src="https://komarev.com/ghpvc/?username=MafujulHaquePlabon" alt="visitors" />
+       </a>
+  </p>
+
 - [x] 💻 I’m currently working on MERN stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
 - [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
@@ -24,7 +19,6 @@ Here are some ideas to get you started:
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
 
 #### Stack
-```yaml
 {
   "language": ["javascript", "typescript"],
   "frontend": {
@@ -47,8 +41,6 @@ Here are some ideas to get you started:
                          "Payment-Gateway-System", "Chrome Dev Tools", "Testing", "AWS", "Docker"
      ]
 }
-```
-
 #### Favourite Stack
 
 <div  style="display: flex;align-items: center;"><img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
