@@ -11,9 +11,9 @@
        </a>
   </p>
   
-- [x] 💻 I’m currently working on MERN stack projects
+- [x] 💻 I’m currently working on **MERN** stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
-- [x] ✉  How to reach me: shoot an email at "mafujul90@gmail.com"
+- [x] ✉  How to reach me: shoot an email at "**mafujul90@gmail.com**"
 - [x] 🌍 I'm mostly active within the **JavaScript Community**
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
