@@ -51,5 +51,5 @@
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0081CB?style=flat-square&logo=next&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/Mongodb-3178c6?style=for-the-badge&logo=mongodb&logoColor=green)
+![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
+![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
