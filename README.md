@@ -47,9 +47,9 @@
 #### Favourite Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0081CB?style=flat-square&logo=next&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0CC1F3?style=flat-square&logo=next&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
