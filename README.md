@@ -13,6 +13,7 @@
   
 - [x] 💻 I’m currently working on **MERN** stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
+- [x] 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - [x] ✉  How to reach me: shoot an email at "**mafujul90@gmail.com**"
 - [x] 🌍 I'm mostly active within the **JavaScript Community**
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
