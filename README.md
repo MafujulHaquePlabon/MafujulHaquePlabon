@@ -1,4 +1,9 @@
-## :man_office_worker: Hi 👋, I'm a [Software Engineer (web)](https://github.com/MafujulHaquePlabon)
+## :man_office_worker: Hello Good People 👋,
+### Software Engineer && MERN Stack Developer && UI/UX Enthusiast
+
+I'm a professional MERN stack web developer specialized in JavaScript-based technologies with 2+ years of hands-on experience. I Love writing clean and maintainable code for web applications, passionate about learning and exploring new technologies as well enthusiastic about UI/UX.
+
+Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 <p align="left">
        <a href="https://stackoverflow.com/users/19081882/mafujul-haque">
        <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19081882?color=orange&label=reputation&logo=stackoverflow">
