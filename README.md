@@ -26,9 +26,12 @@
   "frontend": {
      "library/framework": ["next.js", "react.js"],
      "component lib/framework": [
-          "tailwindcss", "daisyUI", "flowbite",
-             "bootstrap", "react-bootstrap",
-                     "material ui"
+          "tailwindcss",
+          "daisyUI",
+          "flowbite",
+                 "bootstrap",
+                 "react-bootstrap",
+                        "material ui"
      ]
          },
   "backend": ["node.js/express"], 
