@@ -64,8 +64,6 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 
 ![MafujulHaquePlabon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MafujulHaquePlabon&theme=darcula&hide_border=true)
 
-![MafujulHaquePlabon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MafujulHaquePlabon&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
 ### :mailbox: Reach me out
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/) 
