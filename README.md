@@ -54,6 +54,13 @@
 ![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
 
+#### Numbers
+![MafujulHaquePlabon's Stats](https://github-readme-stats.vercel.app/api?username=MafujulHaquePlabon&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![MafujulHaquePlabon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MafujulHaquePlabon&theme=darcula&hide_border=true)
+
+![MafujulHaquePlabon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MafujulHaquePlabon&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 #### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/) 
