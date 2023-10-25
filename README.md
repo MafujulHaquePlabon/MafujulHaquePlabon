@@ -19,7 +19,7 @@
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
 
-### :eyes: Stack
+### :eyes: Current Stack
 ```yaml
 {
   "language": ["javascript", "typescript"],
