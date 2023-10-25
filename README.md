@@ -19,6 +19,14 @@
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
 - [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
 
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Mafujul_Haque)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mafujul.haqueplabon/)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mafujul_haque_plabon/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mafujul90@gmail.com)
+
 ### Stack
 ```yaml
 {
