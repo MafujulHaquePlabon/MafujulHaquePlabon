@@ -68,11 +68,3 @@
 ![MafujulHaquePlabon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MafujulHaquePlabon&theme=darcula&hide_border=true)
 
 ![MafujulHaquePlabon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MafujulHaquePlabon&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
-### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafujul-haque-plabon-a374581b0/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Mafujul_Haque)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mafujul.haqueplabon/)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mafujul_haque_plabon/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mafujul90@gmail.com)
