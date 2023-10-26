@@ -49,7 +49,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
      ]
 }
 ```
-### Favourite Stack
+### 🫶 Favourite Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=typescript&logoColor=white)
