@@ -24,6 +24,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
        <img src="https://img.shields.io/badge/projects-12-important?username=MafujulHaquePlabon" alt="projects" />
        </a> 
   </p>
+  
 - [x] 💻 I’m currently working on **MERN** stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
 - [x] 👯 I’m currently open for work and employment opportunities (remote and relocation)
