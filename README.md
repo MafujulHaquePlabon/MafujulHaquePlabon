@@ -13,14 +13,11 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
        </a>
        <a href="https://github.com/MafujulHaquePlabon/">
        <img src="https://komarev.com/ghpvc/?username=MafujulHaquePlabon" alt="visitors" />
-       </a> 
+       </a>      
        <a href="https://github.com/MafujulHaquePlabon/">
-       <img src="https://img.shields.io/badge/age-23-blueviolet?username=MafujulHaquePlabon" alt="age" />
-       </a> 
-<a href="https://github.com/MafujulHaquePlabon/">
        <img src="https://img.shields.io/badge/living-Dhaka-ff69b4?username=MafujulHaquePlabon" alt="living" />
        </a> 
-<a href="https://github.com/MafujulHaquePlabon/">
+       <a href="https://github.com/MafujulHaquePlabon/">
        <img src="https://img.shields.io/badge/projects-12-important?username=MafujulHaquePlabon" alt="projects" />
        </a> 
   </p>
