@@ -14,10 +14,16 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
        <a href="https://github.com/MafujulHaquePlabon/">
        <img src="https://komarev.com/ghpvc/?username=MafujulHaquePlabon" alt="visitors" />
        </a> 
-  </p> ![Age](https://img.shields.io/badge/age-23-blueviolet) 
-       ![Living](https://img.shields.io/badge/living-Dhaka-ff69b4) 
-       ![Projects](https://img.shields.io/badge/projects-12-important)
-  
+       <a href="https://github.com/MafujulHaquePlabon/">
+       <img src="https://img.shields.io/badge/age-23-blueviolet?username=MafujulHaquePlabon" alt="age" />
+       </a> 
+<a href="https://github.com/MafujulHaquePlabon/">
+       <img src="https://img.shields.io/badge/living-Dhaka-ff69b4?username=MafujulHaquePlabon" alt="living" />
+       </a> 
+<a href="https://github.com/MafujulHaquePlabon/">
+       <img src="https://img.shields.io/badge/projects-12-important?username=MafujulHaquePlabon" alt="projects" />
+       </a> 
+  </p>
 - [x] 💻 I’m currently working on **MERN** stack projects
 - [x] 🌱 I’m currently learning: Next.JS , Typescript , Mongoose , Testing , GraphQL , SQL , AWS , Docker
 - [x] 👯 I’m currently open for work and employment opportunities (remote and relocation)
