@@ -50,8 +50,8 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
   "ide": ["vs code"],                     
   "others": [
          "Redux", "React router", "Rest api", "Figma", "Firebase-Authentication", "Netlify", "Surge", "Heroku",
-               "HTML5", "CSS3", "SASS", "Git", "Github", "ES6", "Axios", "Chrome Dev tool", "JWT", "Map",
-                      "Payment-Gateway-System", "Chrome Dev Tools", "Testing", "AWS", "Docker"
+               "HTML5", "CSS3", "SASS", "Git", "Github", "ES6", "Axios", "Chrome Dev Tools", "JWT", "Map",
+                  "Payment-Gateway-System", "Testing", "AWS", "Docker", "Data Structure", "Algorithm" 
      ]
 }
 ```
