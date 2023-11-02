@@ -28,7 +28,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 - [x] ✉  How to reach me: shoot an email at "**mafujul90@gmail.com**"
 - [x] 🌍 I'm mostly active within the **JavaScript Community**
 - [x] 💬 Discord: Mafujul Haque Plabon#7903
-- [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜.
+- [x] 🎿 Hobbies other than coding: Watching movies/series, Reading book, Thinking about being more serious from the next day 😜
 
 ### :eyes: Current Stack
 ```yaml
