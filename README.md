@@ -42,7 +42,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
           "flowbite",
                  "bootstrap",
                  "react-bootstrap",
-                         "material ui"
+                          "material ui"
      ]
          },
   "backend": ["node.js/express.js"], 
