@@ -1,4 +1,4 @@
-## :man_office_worker: Hello Good People 👋,
+## :man_office_worker: Hello Good People 👋
 ### Software Engineer && MERN Stack Developer && UI/UX Enthusiast
 
 I'm a professional MERN stack web developer specialized in JavaScript-based technologies with 2+ years of hands-on experience. I Love writing clean and maintainable code for web applications, passionate about learning and exploring new technologies as well enthusiastic about UI/UX.
