@@ -71,13 +71,13 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
   <tr>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg"
         alt="Contribution Overview"
       />
     </td>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg"
         alt="Used Languages"
       />
     </td>
@@ -85,12 +85,13 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
   <tr>
     <td align="center" colspan="2">
       <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MafujulHaquePlabon&theme=ocean_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MafujulHaquePlabon&theme=ocean_dark"
         alt="Most Commit Language"
       />
     </td>
   </tr>
 </table>
+
 
 <br>
 
