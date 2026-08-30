@@ -64,6 +64,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
+
 <br>
 ### GitHub Stats
 
@@ -79,14 +80,6 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
       <img
         src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg#gh-dark-mode-only"
         alt="Used Languages"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MafujulHaquePlabon&theme=ocean_dark"
-        alt="Most Commit Language"
       />
     </td>
   </tr>
