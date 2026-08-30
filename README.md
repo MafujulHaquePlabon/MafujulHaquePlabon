@@ -66,30 +66,6 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
 
 <br>
-### GitHub Stats
-![](https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<table>
-  <tr>
-    <td align="center">
-      <img
-        src="https://github.com/MafujulHaquePlabon/github-stats/blob/main/github-stats-master/templates/overview.svg#gh-dark-mode-only"
-        alt="Contribution Overview"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github.com/MafujulHaquePlabon/github-stats/blob/main/github-stats-master/templates/languages.svg#gh-dark-mode-only"
-        alt="Used Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-<br>
 
 ### :mailbox: Reach me out
 
