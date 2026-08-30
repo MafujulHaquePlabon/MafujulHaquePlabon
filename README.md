@@ -65,9 +65,34 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 ![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
 
-### :chart_with_upwards_trend: Current Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=MafujulHaquePlabon&show_icons=true&hide_border=true&theme=react" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MafujulHaquePlabon&hide_border=true&theme=react" width="48%" >
+### GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+        alt="Contribution Overview"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+        alt="Used Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iz-ahmad&theme=ocean_dark"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### :mailbox: Reach me out
 
