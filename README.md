@@ -72,7 +72,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
   <tr>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/main/generated/overview.svg#gh-dark-mode-only"
+        src="https://github.com/MafujulHaquePlabon/github-stats/blob/main/github-stats-master/templates/overview.svg#gh-dark-mode-only"
         alt="Contribution Overview"
       />
     </td>
