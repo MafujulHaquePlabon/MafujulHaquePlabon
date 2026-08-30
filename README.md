@@ -64,20 +64,20 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-35495E?style=flat-square&logo=express.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-663399?style=flat-square&logo=mongodb&logoColor=white)
-
+<br>
 ### GitHub Stats
 
 <table>
   <tr>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-dark-mode-only"
         alt="Contribution Overview"
       />
     </td>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg#gh-dark-mode-only"
         alt="Used Languages"
       />
     </td>
@@ -91,6 +91,8 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
     </td>
   </tr>
 </table>
+
+<br>
 
 
 <br>
