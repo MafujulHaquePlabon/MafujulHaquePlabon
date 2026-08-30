@@ -67,7 +67,8 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
 
 <br>
 ### GitHub Stats
-
+![](https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <table>
   <tr>
     <td align="center">
