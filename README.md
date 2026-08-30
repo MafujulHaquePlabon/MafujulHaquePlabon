@@ -71,13 +71,13 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
   <tr>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/overview.svg#gh-dark-mode-only"
         alt="Contribution Overview"
       />
     </td>
     <td align="center">
       <img
-        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+        src="https://raw.githubusercontent.com/MafujulHaquePlabon/github-stats/master/generated/languages.svg#gh-dark-mode-only"
         alt="Used Languages"
       />
     </td>
