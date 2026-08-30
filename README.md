@@ -78,7 +78,7 @@ Besides these, I'm a Muslim who believes in Allah and the prophet Mohammad.
     </td>
     <td align="center">
       <img
-        src="https://github.com/MafujulHaquePlabon/github-stats/blob/main/github-stats-master/templates/languages.svg"
+        src="https://github.com/MafujulHaquePlabon/github-stats/blob/main/github-stats-master/templates/languages.svg#gh-dark-mode-only"
         alt="Used Languages"
       />
     </td>
